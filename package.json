@@ -1,0 +1,23 @@
+{
+  "name": "artsai-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piligrimo/artsai-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piligrimo/artsai-backend/issues"
+  },
+  "homepage": "https://github.com/Piligrimo/artsai-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "papaparse": "^5.5.3"
+  }
+}
